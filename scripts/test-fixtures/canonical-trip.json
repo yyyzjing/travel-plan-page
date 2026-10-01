@@ -1,0 +1,61 @@
+{
+  "$schema": "../../schemas/travel-data.schema.json",
+  "schemaVersion": "1.0.0",
+  "trip": {
+    "id": "trip-synthetic-fixture",
+    "title": "Synthetic map fixture",
+    "language": "en",
+    "countryNames": {
+      "ZZ": { "nameZh": "虚构之国" }
+    },
+    "primaryDestinationCountries": ["ZZ"]
+  },
+  "entities": {
+    "places": {
+      "place-fixture-west": {
+        "name": "Fixture West",
+        "category": "city",
+        "countryCode": "ZZ",
+        "geo": { "lat": 21, "lng": 11 }
+      },
+      "place-fixture-east": {
+        "name": "Fixture East",
+        "category": "attraction",
+        "countryCode": "ZZ",
+        "geo": { "lat": 23, "lng": 13 }
+      }
+    },
+    "stays": {},
+    "flights": {},
+    "flightGroups": {},
+    "carriers": {},
+    "tickets": {},
+    "transport": {
+      "transport-fixture-route": {
+        "mode": "rail",
+        "fromPlaceId": "place-fixture-west",
+        "toPlaceId": "place-fixture-east"
+      }
+    },
+    "rentals": {},
+    "restaurants": {}
+  },
+  "days": [
+    {
+      "id": "day-fixture-one",
+      "sequence": 1,
+      "date": "2099-01-01",
+      "title": "Synthetic route",
+      "items": [
+        {
+          "id": "item-fixture-transfer",
+          "type": "transport",
+          "title": "Synthetic transfer",
+          "transportId": "transport-fixture-route"
+        }
+      ]
+    }
+  ],
+  "preTrip": { "items": {} },
+  "issues": {}
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ai-friendly-lightweight-travel-template",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "boundaries:sync": "node scripts/sync-boundaries.mjs",
+    "boundaries:index": "node scripts/build-boundary-index.mjs",
+    "boundaries:validate": "node scripts/validate-boundaries.mjs",
+    "build:map": "node scripts/build-map.mjs",
+    "validate": "node scripts/validate-lite.mjs",
+    "test:runtime": "node --test tests/runtime/runtime-storage.test.cjs",
+    "preview": "node local-preview-server.mjs"
+  },
+  "dependencies": {}
+}

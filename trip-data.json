@@ -1,0 +1,1125 @@
+{
+  "trip": {
+    "status": "upcoming",
+    "startDate": "2026-10-02",
+    "endDate": "2026-10-10",
+    "dayCount": 9,
+    "countries": [
+      "中国香港",
+      "澳大利亚"
+    ],
+    "primaryDestinationCountries": [
+      "澳大利亚"
+    ],
+    "primaryDestinationName": "澳大利亚 9 天 4 城",
+    "citiesAndAreas": [
+      "香港",
+      "悉尼",
+      "黄金海岸",
+      "墨尔本"
+    ]
+  },
+  "days": [
+    {
+      "day": 1,
+      "id": "d-2026-10-02",
+      "date": "2026-10-02",
+      "title": "香港",
+      "locations": [
+        "上海浦东",
+        "香港",
+        "香港机场"
+      ],
+      "notes": [],
+      "routes": [
+        {
+          "name": "白天路线",
+          "places": [
+            "Kennedy Town Waterfront Promenade 坚尼地城海滨长廊",
+            "n+burger 海景汉堡",
+            "Jenny Bakery Tsim Sha Tsui 珍妮饼干尖沙咀店",
+            "Jenny Bakery Sheung Wan 珍妮饼干上环店",
+            "StarCity 旺角星际城市"
+          ],
+          "placeMap": {
+            "Kennedy Town Waterfront Promenade 坚尼地城海滨长廊": "Kennedy Town Waterfront Promenade Hong Kong",
+            "n+burger 海景汉堡": "n+burger Kennedy Town",
+            "Jenny Bakery Tsim Sha Tsui 珍妮饼干尖沙咀店": "Jenny Bakery Tsim Sha Tsui",
+            "Jenny Bakery Sheung Wan 珍妮饼干上环店": "Jenny Bakery Sheung Wan",
+            "StarCity 旺角星际城市": "Mong Kok Computer Centre"
+          }
+        }
+      ],
+      "attractions": [
+        {
+          "name": "坚尼地城海滨长廊",
+          "intro": "坚尼地城 C 口出站，走到 %Arabica 后右拐，一直走到海滨公园，沿海岸线有很多石墩，走到最中间就能拍到完整海景与对岸船湾。",
+          "mapQuery": "Kennedy Town Waterfront Promenade",
+          "image": "assets/attractions/kennedy-town.png"
+        },
+        {
+          "name": "珍妮饼干 Jenny Bakery",
+          "intro": "尖沙咀店：美丽都大厦 2 楼 42 铺（重庆大厦旁），地铁尖沙咀站 D1 出口左转 2 分钟，10:00-19:00；上环店：永和街 15 号地铺，地铁上环站 E2 口右转 3 分钟，10:00-19:00。",
+          "mapQuery": "Jenny Bakery Hong Kong"
+        },
+        {
+          "name": "旺角星际城市",
+          "intro": "东铁线坐到旺角东站 B 出口，步行 600 米即到；最近的地铁是旺角 E2 出口。",
+          "mapQuery": "Sim City Mong Kok"
+        }
+      ],
+      "food": [
+        {
+          "name": "n+burger 海景汉堡",
+          "note": "坚尼地城海滨长廊旁，面朝大海吃汉堡。"
+        }
+      ],
+      "transport": [
+        {
+          "label": "上海 → 香港 → 悉尼",
+          "detail": "10.2 CX361 上海浦东 08:35 → 香港 T1 11:25；10.3 CX001 香港 00:45 → 悉尼金斯福德史密斯 T1 11:45（行李直达，中转 13 小时 20 分）。"
+        }
+      ],
+      "shopping": [],
+      "other": [],
+      "guideImages": []
+    },
+    {
+      "day": 2,
+      "id": "d-2026-10-03",
+      "date": "2026-10-03",
+      "title": "悉尼",
+      "locations": [
+        "悉尼机场",
+        "酒店",
+        "环形码头",
+        "天文台山"
+      ],
+      "notes": [],
+      "routes": [
+        {
+          "name": "citywalk 路线 1（出片机位）",
+          "places": [
+            "Hotel 酒店",
+            "Sydney Harbour Bridge 海港大桥",
+            "Sydney Opera House 悉尼歌剧院",
+            "Circular Quay Station 环形码头站",
+            "Observatory Hill 天文台山",
+            "Cremorne Point Wharf",
+            "Circular Quay Station 环形码头站",
+            "Sydney Opera House 悉尼歌剧院（夜幕）",
+            "Hotel 酒店"
+          ],
+          "placeMap": {
+            "Hotel 酒店": "Citadines Walker North Sydney",
+            "Sydney Harbour Bridge 海港大桥": "Sydney Harbour Bridge",
+            "Sydney Opera House 悉尼歌剧院": "Sydney Opera House",
+            "Circular Quay Station 环形码头站": "Circular Quay Station",
+            "Observatory Hill 天文台山": "Observatory Hill Sydney",
+            "Cremorne Point Wharf": "Cremorne Point Wharf"
+          }
+        },
+        {
+          "name": "citywalk 路线 2（建筑人文）",
+          "places": [
+            "Sydney Town Hall 市政厅",
+            "Queen Victoria Building QVB 维多利亚女王大厦",
+            "Sydney Tower 悉尼塔（远观）",
+            "Australian Museum 澳大利亚博物馆",
+            "St Mary's Cathedral 圣玛丽大教堂",
+            "State Library of NSW 新州立图书馆",
+            "Art Gallery of NSW 新南威尔士美术馆",
+            "Royal Botanic Gardens Melbourne 墨尔本皇家植物园",
+            "Sydney Opera House 悉尼歌剧院",
+            "Circular Quay 环形码头",
+            "Sydney Harbour Bridge 悉尼港大桥"
+          ],
+          "placeMap": {
+            "Sydney Town Hall 市政厅": "Sydney Town Hall",
+            "Queen Victoria Building QVB 维多利亚女王大厦": "Queen Victoria Building",
+            "Sydney Tower 悉尼塔（远观）": "Sydney Tower",
+            "Australian Museum 澳大利亚博物馆": "Australian Museum",
+            "St Mary's Cathedral 圣玛丽大教堂": "St Mary's Cathedral Sydney",
+            "State Library of NSW 新州立图书馆": "State Library of NSW",
+            "Art Gallery of NSW 新南威尔士美术馆": "Art Gallery of NSW",
+            "Royal Botanic Gardens Melbourne 墨尔本皇家植物园": "Royal Botanic Garden Sydney",
+            "Sydney Harbour Bridge 悉尼港大桥": "Sydney Harbour Bridge"
+          }
+        }
+      ],
+      "attractions": [
+        {
+          "name": "南半球最美车站 Circular Quay",
+          "intro": "环形码头车站是悉尼最经典的出片机位，海港大桥、歌剧院、渡轮同框。",
+          "mapQuery": "Circular Quay Station",
+          "image": "assets/attractions/circular-quay.jpg"
+        },
+        {
+          "name": "Bondi Beach · Icebergs 网红泳池",
+          "intro": "Bondi 海滩 Icebergs 网红泳池，碧蓝海水与城市天际线。",
+          "mapQuery": "Icebergs Bondi Beach",
+          "image": "assets/attractions/bondi-icebergs.jpg"
+        },
+        {
+          "name": "Cremorne Point Wharf 最美公交车站",
+          "intro": "Cremorne Point Wharf 公车站，隔岸看悉尼歌剧院，被誉为最美公交车站。",
+          "mapQuery": "Cremorne Point Wharf",
+          "image": "assets/attractions/cremorne-point-wharf.jpg"
+        },
+        {
+          "name": "麦考利夫人座椅 Mrs Macquarie's Chair",
+          "intro": "皇家植物园东端的麦考利夫人座椅，是拍歌剧院与海港大桥的最佳角度之一。",
+          "mapQuery": "Mrs Macquarie's Chair",
+          "image": "assets/attractions/mrs-macquaries-chair.png"
+        },
+        {
+          "name": "Lavender Bay 北悉尼对岸",
+          "intro": "Lavender Bay 位于北悉尼，隔岸拍悉尼歌剧院。",
+          "mapQuery": "Lavender Bay Sydney"
+        },
+        {
+          "name": "悉尼天文台公园草坪",
+          "intro": "悉尼天文台公园草坪，可拍到与海港大桥同框。",
+          "mapQuery": "Observatory Hill Park Sydney",
+          "image": "assets/attractions/observatory-hill-park.jpg"
+        },
+        {
+          "name": "悉尼海港大桥 Sydney Harbour Bridge",
+          "intro": "悉尼的钢铁地标，可登顶 Pylon Lookout 或攀爬 BridgeClimb 俯瞰港湾与歌剧院。",
+          "mapQuery": "Sydney Harbour Bridge"
+        },
+        {
+          "name": "悉尼歌剧院 Sydney Opera House",
+          "intro": "20 世纪最具辨识度的建筑之一，外壳游览、内场导览与日落合影三件套。",
+          "mapQuery": "Sydney Opera House",
+          "image": "assets/attractions/sydney-opera-house.jpg"
+        },
+        {
+          "name": "维多利亚女王大厦 QVB",
+          "intro": "1898 年落成的罗马式复古拱廊商场，彩绘玻璃天窗与英式钟塔是必拍细节。",
+          "mapQuery": "Queen Victoria Building Sydney",
+          "image": "assets/attractions/queen-victoria-building.jpg"
+        },
+        {
+          "name": "市政厅 Sydney Town Hall",
+          "intro": "位于 QVB 旁，是悉尼最老的现存礼堂建筑，外立面与维多利亚厅值得顺路一拍。",
+          "mapQuery": "Sydney Town Hall",
+          "image": "assets/attractions/sydney-town-hall.jpg"
+        },
+        {
+          "name": "圣玛丽大教堂 St Mary’s Cathedral",
+          "intro": "紧邻海德公园的哥特复兴式天主教堂，砂岩尖塔与花窗玻璃是 CBD 的安静一隅。",
+          "mapQuery": "St Mary's Cathedral Sydney",
+          "image": "assets/attractions/st-marys-cathedral.jpg"
+        },
+        {
+          "name": "澳大利亚博物馆 Australian Museum",
+          "intro": "南半球最大的自然历史与人类学博物馆，2020 年完成扩建，馆藏涵盖恐龙、原住民与海洋生物。",
+          "mapQuery": "Australian Museum Sydney"
+        },
+        {
+          "name": "新州立图书馆 State Library of NSW",
+          "intro": "毗邻皇家植物园的新古典主义图书馆，开放式的 Mitchell Reading Room 是免费出片机位。",
+          "mapQuery": "State Library of New South Wales Sydney"
+        },
+        {
+          "name": "新南威尔士美术馆 Art Gallery of NSW",
+          "intro": "位于 Domain 公园北端，常设展免费，重点看 Yiribana 原住民艺术与澳洲印象派。",
+          "mapQuery": "Art Gallery of New South Wales Sydney"
+        },
+        {
+          "name": "悉尼塔 Sydney Tower",
+          "intro": "南半球最高的塔之一，Gold Tower 360° 旋转餐厅与观景台是雨备方案。",
+          "mapQuery": "Sydney Tower Eye"
+        },
+        {
+          "name": "皇家植物园 Royal Botanic Garden Sydney",
+          "intro": "紧邻歌剧院与歌剧院大桥，棕榈大道、喷泉和麦考利夫人角都在园内。",
+          "mapQuery": "Royal Botanic Garden Sydney"
+        }
+      ],
+      "photoSpots": [
+        "❶ 南半球最美车站 Circular Quay",
+        "❸ Bondi Beach 海滩 Icebergs 网红游泳池",
+        "❺ 最美公交车站 Cremorne Point Wharf",
+        "❻ 麦考利夫人座椅 Mrs Macquarie's Chair",
+        "❼ Lavender Bay 在北悉尼，隔岸拍悉尼歌剧院",
+        "❽ 悉尼天文台公园草坪，拍到和海港大桥同框"
+      ],
+      "food": [],
+      "transport": [
+        {
+          "label": "机场 → 酒店",
+          "detail": "金斯福德史密斯机场到北悉尼馨乐庭沃克（Citadines Walker North Sydney），可乘火车到 North Sydney Station 再步行；或打车。"
+        },
+        {
+          "label": "市内公交 / 渡轮",
+          "detail": "Opal 卡刷公交、地铁、渡轮；Cremorne Point 需搭渡轮；环形码头周边以步行为主。"
+        }
+      ],
+      "shopping": [],
+      "other": [],
+      "guideImages": [
+        {
+          "src": "assets/attractions/sydney.png",
+          "label": "悉尼导览图"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "id": "d-2026-10-04",
+      "date": "2026-10-04",
+      "title": "悉尼",
+      "locations": [
+        "Central Station",
+        "Kiama",
+        "Gerringong",
+        "Minnamurra"
+      ],
+      "notes": [],
+      "routes": [
+        {
+          "name": "路线一（Kiama 先到）",
+          "places": [
+            "Central Station 中央车站",
+            "Kiama Station 基亚马站",
+            "Kiama Lighthouse 基亚马灯塔",
+            "Kiama Blowhole 基亚马喷水洞",
+            "The Hungry Monkey 餐厅",
+            "Kiama Station 基亚马站",
+            "Gerringong Station 杰林贡站",
+            "Gerringong Cemetery 杰林贡墓园",
+            "Gerringong Station 杰林贡站",
+            "Minnamurra Station 米纳穆拉站",
+            "Minnamurra Whale Watching Platform 米纳穆拉观鲸平台",
+            "Kiama Station 基亚马站",
+            "Central Station 中央车站"
+          ],
+          "placeMap": {
+            "Central Station 中央车站": "Sydney Central Station",
+            "Kiama Station 基亚马站": "Kiama Railway Station",
+            "Kiama Lighthouse 基亚马灯塔": "Kiama Lighthouse",
+            "Kiama Blowhole 基亚马喷水洞": "Kiama Blowhole",
+            "The Hungry Monkey 餐厅": "The Hungry Monkey Kiama",
+            "Gerringong Station 杰林贡站": "Gerringong Railway Station",
+            "Gerringong Cemetery 杰林贡墓园": "Gerringong Cemetery",
+            "Minnamurra Station 米纳穆拉站": "Minnamurra Railway Station",
+            "Minnamurra Whale Watching Platform 米纳穆拉观鲸平台": "Minnamurra Whale Watching Platform"
+          }
+        },
+        {
+          "name": "路线二（先到 Gerringong）",
+          "places": [
+            "Central Station 中央车站",
+            "Gerringong Station 杰林贡站",
+            "9 Tasman Drive 9 Tasman Drive 斜坡打卡",
+            "Kiama Station 基亚马站",
+            "Kiama Blowhole 基亚马喷水洞",
+            "Kiama Station 基亚马站",
+            "Minnamurra Station 米纳穆拉站",
+            "Central Station 中央车站"
+          ],
+          "placeMap": {
+            "9 Tasman Drive 9 Tasman Drive 斜坡打卡": "9 Tasman Drive Gerringong"
+          }
+        }
+      ],
+      "attractions": [
+        {
+          "name": "Kiama 灯塔 Kiama Lighthouse",
+          "intro": "白色灯塔，可拍海岸线；从 Kiama Station 步行可达。",
+          "mapQuery": "Kiama Lighthouse",
+          "image": "assets/attractions/kiama-lighthouse.png"
+        },
+        {
+          "name": "Kiama 喷水洞 Kiama Blowhole",
+          "intro": "步行导航定位 Kiama Blowhole 观看喷水洞，海浪大时水柱可达数十米。",
+          "mapQuery": "Kiama Blowhole",
+          "image": "assets/attractions/kiama-blowhole.png"
+        },
+        {
+          "name": "Gerringong 童话小镇与斜坡",
+          "intro": "步行导航定位 Gerringong Cemetery 步行约二十分钟到海边；打卡 9 Tasman Drive 童话斜坡。",
+          "mapQuery": "Gerringong Cemetery",
+          "image": "assets/attractions/gerringong-slope.png"
+        },
+        {
+          "name": "Minnamurra 心形沙滩",
+          "intro": "步行导航定位 Minnamura Whale Watching Platform，徒步十分钟穿过小路到大片草坡，可欣赏心形白沙滩。",
+          "mapQuery": "Minnamurra Whale Watching Platform",
+          "image": "assets/attractions/minnamurra-heart-beach.png"
+        },
+        {
+          "name": "Minnamurra 观鲸平台 Minnamurra Whale Watching Platform",
+          "intro": "从 Kiama 火车站沿 Minnamurra River 步行可达的岬角平台，6–11 月是南露脊鲸迁徙观季。",
+          "mapQuery": "Minnamurra Whale Watching Platform Kiama"
+        }
+      ],
+      "food": [
+        {
+          "name": "The Hungry Monkey",
+          "note": "Kiama 镇上，12:00-13:30 午餐时段。"
+        }
+      ],
+      "transport": [
+        {
+          "label": "火车时刻表",
+          "detail": "关注 Google 时间表或下载 Nextthere；Kiama 方向 SC0 车次较少，错过可能无法回市区。"
+        },
+        {
+          "label": "路线一时间点",
+          "detail": "08:13-10:50 Central→Kiama（SC0，约 2.5 小时）；10:50-12:00 Kiama 灯塔+喷水洞；12:00-13:30 Hungry Monkey 午餐；13:30-14:30 Kiama→Gerringong；16:00-17:00 Gerringong→Minnamurra（下午 14:47 SC0 回 Kiama，15:04 换 bondi 方向火车两站到 Minnamura）；18:00-20:30 回市区。"
+        }
+      ],
+      "shopping": [],
+      "other": [],
+      "guideImages": []
+    },
+    {
+      "day": 4,
+      "id": "d-2026-10-05",
+      "date": "2026-10-05",
+      "title": "悉尼",
+      "locations": [
+        "Central",
+        "Bondi Beach",
+        "Diamond Bay",
+        "Watson Bay",
+        "Circular Quay"
+      ],
+      "notes": [],
+      "routes": [
+        {
+          "name": "东线 + 渡轮回程",
+          "places": [
+            "Central Station 中央车站",
+            "Bondi Junction 邦迪枢纽站",
+            "Bondi Beach 邦迪海滩",
+            "Blackwood 餐厅",
+            "Diamond Bay 钻石湾",
+            "Watson Bay 沃森湾",
+            "Circular Quay 环形码头"
+          ],
+          "placeMap": {
+            "Central Station 中央车站": "Sydney Central Station",
+            "Bondi Junction 邦迪枢纽站": "Bondi Junction Station",
+            "Bondi Beach": "Bondi Beach",
+            "Blackwood 餐厅": "Blackwood Bondi",
+            "Diamond Bay 钻石湾": "Diamond Bay Sydney",
+            "Watson Bay 沃森湾": "Watson Bay",
+            "Circular Quay": "Circular Quay"
+          }
+        }
+      ],
+      "attractions": [
+        {
+          "name": "Bondi Beach",
+          "intro": "从 Central 搭 T4 到 Bondi Junction 转 380 路巴士约 10 分钟；午餐 Blackwood 中午人多，需排队 15 分钟左右。",
+          "mapQuery": "Bondi Beach",
+          "image": "assets/attractions/bondi-beach.jpg"
+        },
+        {
+          "name": "Diamond Bay 钻石湾",
+          "intro": "从 Bondi 坐巴士到 Diamond Bay，海水像钻石一样在发光💎，坐在那边看海发呆了半个小时。",
+          "mapQuery": "Diamond Bay Sydney",
+          "image": "assets/attractions/diamond-bay.jpg"
+        },
+        {
+          "name": "Watson Bay 看日落",
+          "intro": "从 Diamond Bay 搭 380 路巴士到 Watson Bay，一下车就是无敌海景，可以坐在草坪上等看日落；回程搭 Ferry 直返 Circular Quay。",
+          "mapQuery": "Watson Bay",
+          "image": "assets/attractions/watson-bay.jpg"
+        }
+      ],
+      "food": [
+        {
+          "name": "Blackwood",
+          "note": "Bondi 海边餐厅，午餐时段人较多。"
+        }
+      ],
+      "transport": [
+        {
+          "label": "T4 + 巴士 380",
+          "detail": "Central 搭 T4 到 Bondi Junction，再转 380 路巴士往返 Bondi / Diamond Bay / Watson Bay。"
+        },
+        {
+          "label": "回程渡轮",
+          "detail": "Watson Bay 直搭 Ferry 返回 Circular Quay。"
+        }
+      ],
+      "shopping": [],
+      "other": [],
+      "guideImages": []
+    },
+    {
+      "day": 5,
+      "id": "d-2026-10-06",
+      "date": "2026-10-06",
+      "title": "黄金海岸",
+      "locations": [
+        "黄金海岸",
+        "Currumbin Wildlife Sanctuary",
+        "Currumbin Beach",
+        "Point Danger",
+        "Burleigh Heads"
+      ],
+      "notes": [],
+      "routes": [
+        {
+          "name": "Day 5 路线",
+          "places": [
+            "Hotel 酒店",
+            "Currumbin Wildlife Sanctuary 可伦宾野生动物园",
+            "可伦宾海滩 Currumbin Beach",
+            "危险角 Point Danger",
+            "Burleigh Heads National Park 伯利角国家公园",
+            "Hotel 酒店"
+          ],
+          "placeMap": {
+            "Hotel 酒店": "voco Gold Coast",
+            "Currumbin Wildlife Sanctuary 可伦宾野生动物园": "Currumbin Wildlife Sanctuary",
+            "可伦宾海滩 Currumbin Beach": "Currumbin Beach Gold Coast QLD",
+            "危险角 Point Danger": "Point Danger Coolangatta QLD",
+            "Burleigh Heads National Park 伯利角国家公园": "Burleigh Heads National Park"
+          }
+        }
+      ],
+      "attractions": [
+        {
+          "name": "可伦宾野生动物园 Currumbin Wildlife Sanctuary",
+          "intro": "市内动物园，可以抱考拉、看袋鼠，傍晚还有南半球独有的蓝光虫。",
+          "mapQuery": "Currumbin Wildlife Sanctuary"
+        },
+        {
+          "name": "Burleigh Heads 伯利角公园",
+          "intro": "市中心位置，可沿黄金海岸一路骑自行车过去；日落时往市区看，弧形海岸线一览无余。",
+          "mapQuery": "Burleigh Heads",
+          "image": "assets/attractions/burleigh-heads.jpg"
+        },
+        {
+          "name": "迈阿密海滩 Miami Beach",
+          "intro": "黄金海岸北部冲浪者圈层 Miami QLD 的主海滩，沙滩开阔且人流低于南部，附近 Café 适合发呆。",
+          "mapQuery": "Miami Beach Gold Coast QLD",
+          "image": "assets/attractions/miami-beach.jpg"
+        },
+        {
+          "name": "可伦宾海滩 Currumbin Beach",
+          "intro": "紧邻可伦宾野生动物园，Currumbin Alley 浪点常年稳定，海面平静时戏水条件好。",
+          "mapQuery": "Currumbin Beach Gold Coast QLD",
+          "image": "assets/attractions/currumbin-beach.jpg"
+        },
+        {
+          "name": "危险角 Point Danger",
+          "intro": "昆州与新州交界岬角，纪念 Captain Cook 的纪念碑 + 高耸的海蚀悬崖，日落与观鲸季节的常用观测点。",
+          "mapQuery": "Point Danger Coolangatta QLD",
+          "image": "assets/attractions/point-danger.jpg"
+        },
+        {
+          "name": "春溪国家公园 Springbrook National Park",
+          "intro": "黄金海岸内陆的世界遗产雨林，自然桥（Natural Bridge）萤火虫洞与 Purling Brook Falls 是经典半日徒步路线。",
+          "mapQuery": "Springbrook National Park QLD",
+          "image": "assets/attractions/springbrook-national-park.jpg"
+        }
+      ],
+      "food": [],
+      "transport": [
+        {
+          "label": "机场 → 酒店",
+          "detail": "在机场的 WHSmith 便利店直接购买 go explore card（一天 1.5 澳元随便乘）；先 777 路公交车，再换火车，下火车走两分钟到 voco 酒店。"
+        }
+      ],
+      "shopping": [],
+      "other": [],
+      "guideImages": [
+        {
+          "src": "assets/attractions/gold-coast.png",
+          "label": "黄金海岸导览图"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "id": "d-2026-10-07",
+      "date": "2026-10-07",
+      "title": "黄金海岸",
+      "locations": [
+        "黄金海岸",
+        "Q1 大厦",
+        "冲浪者天堂",
+        "墨尔本机场"
+      ],
+      "notes": [],
+      "routes": [
+        {
+          "name": "Day2 路线",
+          "places": [
+            "Hotel 酒店",
+            "Whale Watching 观鲸",
+            "Q1 SkyPoint Observation Deck Q1 大厦观景台",
+            "Surfers Paradise 冲浪者天堂",
+            "Gold Coast Airport 黄金海岸机场",
+            "Melbourne Tullamarine Airport 墨尔本图拉马莱恩机场",
+            "Hotel 酒店"
+          ],
+          "placeMap": {
+            "Whale Watching 观鲸": "Gold Coast Whale Watching",
+            "Q1 SkyPoint Observation Deck Q1 大厦观景台": "SkyPoint Observation Deck Q1",
+            "Surfers Paradise 冲浪者天堂": "Surfers Paradise",
+            "Gold Coast Airport 黄金海岸机场": "Gold Coast Airport OOL",
+            "Melbourne Tullamarine Airport 墨尔本图拉马莱恩机场": "Melbourne Tullamarine Airport MEL",
+            "Hotel 酒店": "Holiday Inn Express Melbourne Little Collins"
+          }
+        }
+      ],
+      "attractions": [
+        {
+          "name": "Q1 大厦 SkyPoint 观景台",
+          "intro": "单买门票 20 几澳元，吃早餐 40 几澳元（现场排队买票）。",
+          "mapQuery": "SkyPoint Observation Deck Q1",
+          "image": "assets/attractions/q1-skypoint.jpg"
+        },
+        {
+          "name": "冲浪者天堂 Surfers Paradise",
+          "intro": "黄金海岸标志性海滩；夜晚有机会看到南半球独有的蓝光虫。",
+          "mapQuery": "Surfers Paradise",
+          "image": "assets/attractions/surfers-paradise.jpg"
+        }
+      ],
+      "food": [
+        {
+          "name": "sura 泰餐",
+          "note": "黄金海岸泰餐厅。"
+        },
+        {
+          "name": "韩餐 Oppane",
+          "note": "韩式餐厅。"
+        },
+        {
+          "name": "Burleigh Pavilion",
+          "note": "Burleigh Heads 海边餐厅。"
+        },
+        {
+          "name": "Shiraz - Restaurant + Bar Gold Coast",
+          "note": "Shiraz 餐厅酒吧。"
+        },
+        {
+          "name": "Curry Express 印度菜",
+          "note": "印度料理。"
+        },
+        {
+          "name": "La Jordania Restaurant And Shisha Lounge",
+          "note": "波斯菜。"
+        },
+        {
+          "name": "Top Up Korean Buffet - Southport",
+          "note": "Southport 韩式自助。"
+        }
+      ],
+      "transport": [
+        {
+          "label": "黄金海岸 → 墨尔本",
+          "detail": "10.7 VA746 黄金海岸 T1 17:25 → 图拉马莱恩机场 T3 20:50。"
+        }
+      ],
+      "shopping": [],
+      "other": [],
+      "guideImages": []
+    },
+    {
+      "day": 7,
+      "id": "d-2026-10-08",
+      "date": "2026-10-08",
+      "title": "墨尔本",
+      "locations": [
+        "墨尔本酒店",
+        "十二门徒岩",
+        "洛克阿德大峡谷",
+        "奥特维雨林",
+        "阿波罗湾",
+        "大洋路牌坊",
+        "墨尔本"
+      ],
+      "notes": [
+        "团内行程，按导游安排；大洋路反向不逆光。"
+      ],
+      "routes": [
+        {
+          "name": "大洋路团（反向不逆光）",
+          "places": [
+            "07:30 Hotel Pickup 07:30 酒店出发",
+            "12:30 Twelve Apostles 12:30 十二门徒岩",
+            "13:30 Loch Ard Gorge 13:30 洛克阿德大峡谷",
+            "14:30 Otway Rainforest 14:30 奥特维雨林寻考拉",
+            "15:30 Apollo Bay 15:30 阿波罗湾海边餐厅",
+            "17:00 Memorial Arch 17:00 大洋路牌坊",
+            "20:00 Arrive Melbourne 20:00 抵达墨尔本"
+          ],
+          "placeMap": {
+            "12:30 Twelve Apostles 12:30 十二门徒岩": "Twelve Apostles",
+            "13:30 Loch Ard Gorge 13:30 洛克阿德大峡谷": "Loch Ard Gorge",
+            "14:30 Otway Rainforest 14:30 奥特维雨林寻考拉": "Otway Ranges",
+            "15:30 Apollo Bay 15:30 阿波罗湾海边餐厅": "Apollo Bay",
+            "17:00 Memorial Arch 17:00 大洋路牌坊": "Memorial Arch Great Ocean Road"
+          }
+        }
+      ],
+      "attractions": [
+        {
+          "name": "十二门徒岩 Twelve Apostles",
+          "intro": "12:30 抵达，十二根巨型石柱矗立海中。",
+          "mapQuery": "Twelve Apostles",
+          "image": "assets/attractions/twelve-apostles.jpg"
+        },
+        {
+          "name": "洛克阿德大峡谷 Loch Ard Gorge",
+          "intro": "13:30 抵达，峭壁与沉船海岸线。",
+          "mapQuery": "Loch Ard Gorge",
+          "image": "assets/attractions/loch-ard-gorge.jpg"
+        },
+        {
+          "name": "奥特维雨林 Otway Ranges",
+          "intro": "14:30 进入雨林寻找野生考拉。",
+          "mapQuery": "Otway Ranges",
+          "image": "assets/attractions/otway-ranges.jpg"
+        },
+        {
+          "name": "阿波罗湾 Apollo Bay",
+          "intro": "15:30 在海边餐厅用餐。",
+          "mapQuery": "Apollo Bay",
+          "image": "assets/attractions/apollo-bay.jpg"
+        },
+        {
+          "name": "大洋路牌坊 Memorial Arch",
+          "intro": "17:00 抵达大洋路牌坊地标。",
+          "mapQuery": "Memorial Arch Great Ocean Road"
+        }
+      ],
+      "food": [],
+      "transport": [
+        {
+          "label": "一日团",
+          "detail": "07:30 酒店出发，20:00 返程；行程与时间由导游安排。"
+        }
+      ],
+      "shopping": [],
+      "other": [],
+      "guideImages": [
+        {
+          "src": "assets/attractions/great-ocean-road-guide.png",
+          "label": "大洋路导览"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "id": "d-2026-10-09",
+      "date": "2026-10-09",
+      "title": "墨尔本",
+      "locations": [
+        "弗林德斯车站",
+        "皇家植物园",
+        "Brighton Beach"
+      ],
+      "notes": [
+        "避开晚上维妈、Flinders Street、Elizabeth St（homeless 多）；高尚华人区 Balwyn、Toorak、Kew、Glen Waverley、Doncaster、Box Hill。"
+      ],
+      "routes": [
+        {
+          "name": "citywalk 路线 1",
+          "places": [
+            "Flagstaff Gardens 旗杆花园",
+            "Queen Victoria Market 维多利亚女王市场",
+            "State Library of Victoria 维多利亚州立图书馆",
+            "Carlton Gardens 卡尔顿花园",
+            "Chinatown Melbourne 墨尔本唐人街",
+            "Royal Arcade 皇家拱廊",
+            "Hosier Lane 涂鸦巷（霍西尔巷）",
+            "Flinders Street Station 弗林德斯车站",
+            "St Paul's Cathedral 圣保罗大教堂",
+            "Federation Square 联邦广场",
+            "Royal Botanic Gardens Melbourne 墨尔本皇家植物园",
+            "NGV National Gallery of Victoria 维多利亚国家美术馆"
+          ],
+          "placeMap": {
+            "Flagstaff Gardens 旗杆花园": "Flagstaff Gardens",
+            "Queen Victoria Market 维多利亚女王市场": "Queen Victoria Market",
+            "State Library of Victoria 维多利亚州立图书馆": "State Library Victoria",
+            "Carlton Gardens 卡尔顿花园": "Carlton Gardens",
+            "Chinatown Melbourne 墨尔本唐人街": "Melbourne Chinatown",
+            "Royal Arcade 皇家拱廊": "Royal Arcade Melbourne",
+            "Hosier Lane 涂鸦巷（霍西尔巷）": "Hosier Lane",
+            "Flinders Street Station 弗林德斯车站": "Flinders Street Station",
+            "St Paul's Cathedral 圣保罗大教堂": "St Paul's Cathedral Melbourne",
+            "Federation Square 联邦广场": "Federation Square",
+            "Royal Botanic Gardens Melbourne 墨尔本皇家植物园": "Royal Botanic Gardens Melbourne",
+            "NGV 维多利亚美术馆": "National Gallery of Victoria"
+          }
+        },
+        {
+          "name": "citywalk 路线 2",
+          "places": [
+            "Carlton Gardens 卡尔顿花园",
+            "State Library of Victoria 维多利亚州立图书馆",
+            "Queen Victoria Market 维多利亚女王市场",
+            "Flagstaff Gardens 旗杆花园",
+            "Royal Arcade 皇家拱廊",
+            "Flinders Street Station 弗林德斯车站",
+            "St Paul's Cathedral 圣保罗大教堂",
+            "Hosier Lane 涂鸦巷（霍西尔巷）",
+            "NGV National Gallery of Victoria 维多利亚国家美术馆",
+            "Chinatown 唐人街"
+          ],
+          "placeMap": {}
+        },
+        {
+          "name": "citywalk 路线 3",
+          "places": [
+            "Melbourne Museum 墨尔本博物馆",
+            "Royal Exhibition Building 皇家展览馆",
+            "Carlton Gardens 卡尔顿花园",
+            "Queen Victoria Market 维多利亚女王市场",
+            "Melbourne Central 墨尔本中央购物中心",
+            "State Library of Victoria 维多利亚州立图书馆",
+            "Chinatown Melbourne 墨尔本唐人街",
+            "Royal Arcade 皇家拱廊",
+            "Hosier Lane 霍西尔巷（涂鸦街）",
+            "St Paul's Cathedral 圣保罗大教堂",
+            "Flinders Street Station 弗林德斯车站"
+          ],
+          "placeMap": {
+            "Melbourne Museum 墨尔本博物馆": "Melbourne Museum",
+            "Royal Exhibition Building 皇家展览馆": "Royal Exhibition Building",
+            "Melbourne Central 墨尔本中央购物中心": "Melbourne Central",
+            "霍西尔巷（涂鸦街）": "Hosier Lane"
+          }
+        }
+      ],
+      "attractions": [
+        {
+          "name": "弗林德斯车站 Flinders Street Station",
+          "intro": "百年火车站，墨尔本地标；周董同款拍照的椅子就在站前。",
+          "mapQuery": "Flinders Street Station",
+          "image": "assets/attractions/flinders-street-station.png"
+        },
+        {
+          "name": "圣保罗大教堂 St Paul's Cathedral",
+          "intro": "哥特式建筑，与弗林德斯车站斜对。",
+          "mapQuery": "St Paul's Cathedral Melbourne",
+          "image": "assets/attractions/st-pauls-cathedral.png"
+        },
+        {
+          "name": "涂鸦巷（霍西尔巷）Hosier Lane",
+          "intro": "周董同款，墨尔本最知名的街头涂鸦巷。",
+          "mapQuery": "Hosier Lane"
+        },
+        {
+          "name": "NGV 维多利亚美术馆",
+          "intro": "4 楼有免费展览，可拍一些近景；俯拍去 5 楼和 6 楼。",
+          "mapQuery": "National Gallery of Victoria"
+        },
+        {
+          "name": "维多利亚女王市场 Queen Victoria Market",
+          "intro": "逛集市，墨尔本最大生鲜市场。",
+          "mapQuery": "Queen Victoria Market",
+          "image": "assets/attractions/queen-victoria-market.png"
+        },
+        {
+          "name": "维多利亚州立图书馆 State Library Victoria",
+          "intro": "南半球霍格沃兹，八角穹顶阅读室空间感绝佳。",
+          "mapQuery": "State Library Victoria",
+          "image": "assets/attractions/state-library-victoria.png"
+        },
+        {
+          "name": "卡尔顿花园 · 皇家展览馆 Carlton Gardens / Royal Exhibition Building",
+          "intro": "1880 年建成，世界文化遗产；春季郁金香花坛是热门拍照点。",
+          "mapQuery": "Royal Exhibition Building Carlton Gardens",
+          "image": "assets/attractions/carlton-gardens.png"
+        },
+        {
+          "name": "皇家植物园 Royal Botanic Gardens",
+          "intro": "墨尔本市中心绿洲；从 Central 打车 25 分钟、公交 40 分钟。",
+          "mapQuery": "Royal Botanic Gardens Melbourne",
+          "image": "assets/attractions/royal-botanic-gardens.png"
+        },
+        {
+          "name": "Brighton Beach 彩色小屋",
+          "intro": "Brighton Beach 的彩色沙滩屋（Bathing Boxes），墨尔本最经典的海滨出片机位之一。",
+          "mapQuery": "Brighton Beach Bathing Boxes"
+        },
+        {
+          "name": "旗杆花园 Flagstaff Gardens",
+          "intro": "墨尔本最古老的公园，位于 CBD 西北角，草坪、长椅与监狱遗址遗迹是城市散步的起点。",
+          "mapQuery": "Flagstaff Gardens Melbourne",
+          "image": "assets/attractions/flagstaff-gardens.png"
+        },
+        {
+          "name": "墨尔本唐人街 Chinatown Melbourne",
+          "intro": "南半球最早的唐人街之一，Little Bourke St 上的牌坊与粤菜/川菜/早茶密集分布。",
+          "mapQuery": "Chinatown Melbourne"
+        },
+        {
+          "name": "皇家拱廊 Royal Arcade",
+          "intro": "墨尔本最古老的拱廊（1870），连接 Bourke 与 Little Collins，巨型时钟 Gaunt’s Clock 每整点报时。",
+          "mapQuery": "Royal Arcade Melbourne",
+          "image": "assets/attractions/royal-arcade.png"
+        },
+        {
+          "name": "联邦广场 Federation Square",
+          "intro": "Yarra 河畔的现代公共空间，Ian Potter Centre 与 ACMI 都在广场内，外立面是出片背景。",
+          "mapQuery": "Federation Square Melbourne"
+        },
+        {
+          "name": "墨尔本博物馆 Melbourne Museum",
+          "intro": "位于 Carlton Gardens 北侧，南半球最大博物馆之一，Bunjilaka 原住民文化中心必看。",
+          "mapQuery": "Melbourne Museum"
+        },
+        {
+          "name": "墨尔本中央购物中心 Melbourne Central",
+          "intro": "CBD 内的大型综合购物中心，标志性的子弹制造厂烟囱被保留在玻璃塔内，是城市更新代表。",
+          "mapQuery": "Melbourne Central Melbourne"
+        },
+        {
+          "name": "墨尔本大学 University of Melbourne",
+          "intro": "澳洲历史第二悠久的大学（1853），哥特复兴的 Old Quadrangle 庭院与 South Lawn 是热门出片机位。",
+          "mapQuery": "University of Melbourne Parkville",
+          "image": "assets/attractions/university-of-melbourne.png"
+        },
+        {
+          "name": "Point Ormond Lookout 海滩",
+          "intro": "Elwood 海边的高地观景草坪，可俯瞰墨尔本天际线与菲利普港湾，日落时分最出片。",
+          "mapQuery": "Point Ormond Lookout",
+          "image": "assets/attractions/point-ormond-lookout.png"
+        },
+        {
+          "name": "雅拉河 Yarra River",
+          "intro": "穿城而过的墨尔本母亲河，沿 Southbank 河畔步道可将高楼与河景同框，黄昏与夜景最佳。",
+          "mapQuery": "Yarra River Melbourne",
+          "image": "assets/attractions/yarra-river.png"
+        },
+        {
+          "name": "斐兹罗伊花园 Fitzroy Gardens",
+          "intro": "市中心东侧的历史名园，库克船长小屋、温室花房与林荫步道适合慢逛拍照。",
+          "mapQuery": "Fitzroy Gardens Melbourne",
+          "image": "assets/attractions/fitzroy-gardens.png"
+        },
+        {
+          "name": "Green Point City View",
+          "intro": "Brighton Beach 旁的观景长椅机位，可拍彩色沙滩屋与海湾同框。",
+          "mapQuery": "Green Point Brighton Melbourne",
+          "image": "assets/attractions/green-point-city-view.png"
+        },
+        {
+          "name": "Bendigo 郁金香展 Bendigo Annual Tulips Display",
+          "intro": "从 Southern Cross Station 搭 Bendigo Line 约 2 小时直达，每年春季的郁金香花海展览，无需换乘。",
+          "mapQuery": "Bendigo Annual Tulip Display",
+          "image": "assets/attractions/bendigo-tulips.png"
+        }
+      ],
+      "food": [
+        {
+          "name": "une 面包",
+          "note": "号称南半球最好吃的可颂。"
+        },
+        {
+          "name": "Mensho 拉面",
+          "note": "汤底极其浓郁。"
+        },
+        {
+          "name": "The Breslin Bar & Grill",
+          "note": "牛排非常出名。"
+        },
+        {
+          "name": "The Tea Room 百年下午茶",
+          "note": "百年下午茶体验。"
+        },
+        {
+          "name": "自助烤肉（Top1 BBQ / Ssam）",
+          "note": "韩式自助烤肉。"
+        },
+        {
+          "name": "Coles 瓶装水",
+          "note": "SkyBus 到 Southern Cross 出站后左转 Coles：0.8 澳元/1L、1 澳元/600ml 瓶装水。"
+        }
+      ],
+      "transport": [
+        {
+          "label": "SkyBus 机场 ↔ 市区",
+          "detail": "成人单程 24.6 澳元，往返 40 澳元；可在大众点评 / 国际版滴滴买。"
+        },
+        {
+          "label": "机场 → 市区",
+          "detail": "终点站 Southern Cross Station（南十字星车站），全程约 30 分钟。"
+        },
+        {
+          "label": "市区 → 机场",
+          "detail": "导航 Southern Cross Station；SkyBus 不用进火车闸机，选 bay75。"
+        },
+        {
+          "label": "市内 tram",
+          "detail": "市中心坐 V/Line 下火车直接 tram 即可到。"
+        },
+        {
+          "label": "Southern Cross → 周边",
+          "detail": "从 Southern Cross Station 坐 Bendigo Line 到 Bendigo Station 不用换乘，车程约 2 小时。"
+        }
+      ],
+      "shopping": [
+        {
+          "name": "Emporium Melbourne",
+          "note": "G 层 lululemon 款式超全，常有澳洲限定款，退税后国内 5-6 折。"
+        },
+        {
+          "name": "Chadstone Market",
+          "note": "南半球最大的商场。"
+        },
+        {
+          "name": "South Melbourne Market + DFO",
+          "note": "南墨尔本市场坐 96 路 tram 三站旁有 DFO，UGG 与 CK 很便宜；拉夫劳伦货不全，要去市区专柜。"
+        }
+      ],
+      "other": [],
+      "guideImages": [
+        {
+          "src": "assets/attractions/melbourne-guide-1.png",
+          "label": "墨尔本导览图 1"
+        },
+        {
+          "src": "assets/attractions/melbourne-guide-2.png",
+          "label": "墨尔本导览图 2"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "id": "d-2026-10-10",
+      "date": "2026-10-10",
+      "title": "墨尔本",
+      "locations": [
+        "墨尔本机场",
+        "香港机场",
+        "上海浦东"
+      ],
+      "notes": [
+        "提前下载 TRS 退税 App；同店或同 ABN 号商户消费满 300 澳元才能办退税；超市零食与餐饮不可退。"
+      ],
+      "routes": [
+        {
+          "name": "返程动线",
+          "places": [
+            "Hotel 酒店",
+            "Southern Cross Station 南十字星车站",
+            "SkyBus bay75 机场大巴 75 号位",
+            "Melbourne Tullamarine Airport T2 墨尔本图拉马莱恩机场 T2",
+            "Hong Kong Airport T1 香港国际机场 T1",
+            "Shanghai Pudong T2 上海浦东国际机场 T2"
+          ],
+          "placeMap": {
+            "Southern Cross Station 南十字星车站": "Southern Cross Station Melbourne",
+            "SkyBus bay75 机场大巴 75 号位": "SkyBus Melbourne Airport bay75",
+            "Melbourne Tullamarine Airport T2 墨尔本图拉马莱恩机场 T2": "Melbourne Tullamarine Airport Terminal 2",
+            "Hong Kong Airport T1 香港国际机场 T1": "Hong Kong International Airport Terminal 1",
+            "Shanghai Pudong T2 上海浦东国际机场 T2": "Shanghai Pudong Airport Terminal 2"
+          }
+        }
+      ],
+      "attractions": [],
+      "food": [],
+      "transport": [
+        {
+          "label": "墨尔本 → 香港 → 上海",
+          "detail": "10.10 CX134 墨尔本 T2 08:25 → 香港 T1 14:55；CX364 香港 17:25 → 上海浦东 T2 20:15（中转 2 小时 30 分，行李直达）。"
+        }
+      ],
+      "shopping": [],
+      "other": [],
+      "guideImages": []
+    }
+  ],
+  "config": {
+    "schemaVersion": "1.0.0",
+    "modules": {
+      "flights": false,
+      "overview": true,
+      "itinerary": true,
+      "todo": false,
+      "driving": false,
+      "ledger": true,
+      "hotels": true
+    },
+    "persistence": {
+      "mode": "local"
+    }
+  },
+  "metadata": {
+    "title": "澳大利亚 9 天 4 城",
+    "tripId": "au-2026-oct",
+    "timeZone": "Australia/Sydney"
+  },
+  "map": {
+    "cities": [
+      {
+        "name": "香港 Hong Kong",
+        "embedQuery": "Hong Kong",
+        "days": [
+          1
+        ]
+      },
+      {
+        "name": "悉尼 Sydney",
+        "embedQuery": "Sydney NSW Australia",
+        "days": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "name": "黄金海岸 Gold Coast",
+        "embedQuery": "Gold Coast QLD Australia",
+        "days": [
+          5,
+          6
+        ]
+      },
+      {
+        "name": "墨尔本 Melbourne",
+        "embedQuery": "Melbourne VIC Australia",
+        "days": [
+          7,
+          8,
+          9
+        ]
+      }
+    ]
+  },
+  "accommodations": [
+    {
+      "city": "悉尼 Sydney",
+      "checkIn": "2026-10-03",
+      "checkOut": "2026-10-06",
+      "hotelName": "馨乐庭沃克北悉尼",
+      "hotelNameEn": "Citadines Walker North Sydney",
+      "address": "Level 5/88 Walker St, North Sydney NSW 2060, Australia",
+      "notes": "Day 2-4 共 3 晚；North Sydney 区，地铁直达 Circular Quay"
+    },
+    {
+      "city": "黄金海岸 Gold Coast",
+      "checkIn": "2026-10-06",
+      "checkOut": "2026-10-07",
+      "hotelName": "voco Gold Coast",
+      "hotelNameEn": "voco Gold Coast",
+      "address": "31 Hamilton Ave, Surfers Paradise QLD 4217, Australia",
+      "notes": "Day 5 一晚；位于 Surfers Paradise 中央，步行至海滩 5 分钟"
+    },
+    {
+      "city": "墨尔本 Melbourne",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-10",
+      "hotelName": "洲际智选假日墨尔本小柯林斯",
+      "hotelNameEn": "Holiday Inn Express Melbourne Little Collins",
+      "address": "589/599 Little Collins St, Melbourne VIC 3000, Australia",
+      "notes": "Day 6 晚-9 共 3 晚；Little Collins St CBD 核心位置，步行可至 Flinders Street Station"
+    }
+  ]
+}
